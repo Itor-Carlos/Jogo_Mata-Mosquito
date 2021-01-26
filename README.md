@@ -21,7 +21,7 @@ Estrutura:
   
   
   Sistema de pontuação:
-  -Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
-    -O mosquito pequeno dá 10 pontos;
-    -O mosquito médio dá 5 pontos;
-    -O mosquito grande dá 2 pontos;
+    -Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
+      -O mosquito pequeno dá 10 pontos;
+      -O mosquito médio dá 5 pontos;
+      -O mosquito grande dá 2 pontos;
