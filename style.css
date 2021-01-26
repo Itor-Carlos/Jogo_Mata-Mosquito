@@ -1,0 +1,101 @@
+html{
+    cursor: url(imagens/imagens/mata_mosca.png) 30 30, auto; 
+}
+
+
+body{
+    background-image: url(imagens/imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    height: 100%;
+}
+
+.mosquito1{
+    width: 50px;
+    height: 50px;
+}
+
+.mosquito2{
+    width: 70px;
+    height: 70px;
+}
+
+.mosquito3{
+    width: 90px;
+    height: 90px;
+}
+
+.ladoA{
+    transform: scaleX(1);
+}
+
+.ladoB{
+    transform: scaleX(-1);
+}
+
+.painel{
+    left: 0px;
+    position: absolute;
+    width: 270px;
+    padding: 10px;
+    bottom: 0px;
+    border-top: 1px solid #fff;
+    background-color: #fff;
+    opacity: 0.7;
+}
+
+.vidas{
+    float: left;
+}
+
+.cronometro{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    width: 250px;
+}
+
+@media (min-width: 320px) and (max-width:640px){
+    img,img#img_vitoria{
+        width: 150px;
+        background-size:cover;
+        height: 545px;
+    }
+
+    body{
+        height: 700px;
+    }
+
+    .img_cor{
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@media (min-width: 411px) and (max-width:823px){
+    img{
+        width: 150px;
+        background-size:cover;
+    }
+    body{
+        height: 730px;
+    }
+
+    body#tela{
+        height: 714px;
+    }
+}
+
+#explicacaoPontuacao{
+    text-align: center;
+    margin-top: 5px;
+    width: 400px;
+    padding: 10px;
+    bottom: 0px;
+    border-top: 1px solid #fff;
+    background-color: #fff;
+    opacity: 0.7;
+}
