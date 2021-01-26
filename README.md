@@ -21,9 +21,9 @@ Estrutura:
   
   
 Sistema de pontuação:
-    -Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
+    - Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
     
-Descrição:
-  - Jogo que tem como intuito matar os mosquitos que aparecem na tela antes que eles desaparecam
-  - São 3 níveis, ao qual a dificuldade influência no tempo que o mosquito fica na tela, a dificuldade e o tempo de tela são inversamento proporcionais
+Sistema de pontuação:
+  - Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
+ 
       
