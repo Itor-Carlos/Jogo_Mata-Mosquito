@@ -18,3 +18,10 @@ Estrutura:
   - vitoria.html é a página ao qual o usuário é redirecionado ao ganhar a partida;
   - style.css é o arquivo CSS customizado;
   - jogo.js é o arquivo JavaScript onde ocorre o tratamento de dados, execução de funções e onde o jogo ganha vida;
+  
+  
+  Sistema de pontuação:
+  -Dentro do jogo há 3 tamanhos mosquitos diferentes, o pequeno, o médio e o grande. Cada um desses tamanhos dá ao jogador uma quantidade de pontos diferentes;
+    -O mosquito pequeno dá 10 pontos;
+    -O mosquito médio dá 5 pontos;
+    -O mosquito grande dá 2 pontos;
